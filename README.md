@@ -1,3 +1,6 @@
+# Introduction
+[Expanding cards](https://50projects50days.com/projects/expanding-cards/) based on [50 projects](https://50projects50days.com/)
+
 # Credits
 - Image by <a href="https://pixabay.com/users/larisa-k-1107275/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=276014">Larisa Koshkina</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=276014">Pixabay</a>
 - Image by <a href="https://pixabay.com/users/danfador-55851/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=190055">Dan Fador</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=190055">Pixabay</a>
